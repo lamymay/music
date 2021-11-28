@@ -1,0 +1,28 @@
+# roject exclude paths
+
+
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+
+# 忽略文件夹
+.idea
+target/
+
+### personal config ###
+*.log
+*.bak
+
+
+
+log/
+
+*DS_Store
+
+
+zero.iml
+
+application-zero.yml
