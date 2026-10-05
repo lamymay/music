@@ -1,0 +1,9 @@
+<html><head>
+<script language="JavaScript"><!--
+mip=172016080144;Gno=0000;vlanid="0"   ;AC="";                          ipm="ac10000a";ss1="000d4844140a";ss2="0000";ss3="ac105090";ss4="000000000000";
+v46ip="172.16.80.144"    ;
+urlpath="http://172.16.1.27";
+window.location=urlpath+"/Control?id=1000&rid="+ipm+"&vlanid="+vlanid+"&rid1="+ss1+"&session="+ss3+"-"+ss4+"-"+ss2;
+// --></script>
+<title></title>
+</head><!--Dr.COMWebLoginID_0.htm--><body></body></html>
